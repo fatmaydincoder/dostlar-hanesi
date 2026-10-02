@@ -1,8 +1,9 @@
+# Dostlar Hanesi
+
 🔗 Canlı Demo: [https://dostlar-hanesi.netlify.app](https://dostlar-hanesi.netlify.app)
 
-# Ekran Görüntüsü: ![Proje Ekran Görüntüsü](./project.screenshot.png) 
-
-# Dostlar Hanesi
+## 📸 Proje Ekran Görüntüsü
+![Proje Ekran Görüntüsü](./project.screenshot.png)
 
 ReactJS ile CRUD + LocalStorage uygulaması.  
 Kitaplar, Filmler ve Diziler için ekleme, listeleme, güncelleme, silme ve favorilere ekleme özellikleri içerir.  
@@ -18,7 +19,6 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 - LocalStorage ile veri kalıcılığı
 
 ## 🚀 Kullanılan Teknolojiler
-
 - React.js
 - CSS
 - LocalStorage
@@ -30,4 +30,3 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 1. Repoyu klonla:
    ```bash
    git clone https://github.com/fatmaydincoder/dostlar-hanesi.git
-
