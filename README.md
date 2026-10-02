@@ -1,3 +1,7 @@
+🔗 Canlı Demo: [https://dostlar-hanesi.netlify.app](https://dostlar-hanesi.netlify.app)
+
+# Ekran Görüntüsü: ![Proje Ekran Görüntüsü](./project.screenshot.png) 
+
 # Dostlar Hanesi
 
 ReactJS ile CRUD + LocalStorage uygulaması.  
@@ -13,11 +17,14 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 - Yıldızlı puanlama sistemi
 - LocalStorage ile veri kalıcılığı
 
-## 🛠️ Kullanılan Teknolojiler
-- ReactJS
-- Pure CSS
+## 🚀 Kullanılan Teknolojiler
+
+- React.js
+- CSS
 - LocalStorage
-- Netlify (deploy için)
+- Firebase (Firestore, Authentication, Hosting)
+- GitHub
+- Netlify
 
 ## ⚙️ Kurulum
 1. Repoyu klonla:
