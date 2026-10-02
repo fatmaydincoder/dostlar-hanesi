@@ -19,9 +19,6 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 - LocalStorage
 - Netlify (deploy için)
 
-## 📸 Ekran Görüntüsü
-![Proje ekran görüntüsü](screenshots/books-page.png)
-
 ## ⚙️ Kurulum
 1. Repoyu klonla:
    ```bash
