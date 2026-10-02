@@ -15,7 +15,7 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 
 ## 🛠️ Kullanılan Teknolojiler
 - ReactJS
-- Pure CSS (kendi stillendirme)
+- Pure CSS
 - LocalStorage
 - Netlify (deploy için)
 
@@ -26,3 +26,4 @@ Yorum şablonları, kendi yorum alanı, tarih-saat kaydı ve yıldızlı puanlam
 1. Repoyu klonla:
    ```bash
    git clone https://github.com/fatmaydincoder/dostlar-hanesi.git
+
